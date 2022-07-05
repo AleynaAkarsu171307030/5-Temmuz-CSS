@@ -1,0 +1,87 @@
+div{
+    border:2px solid red;
+
+}
+#text-blue{
+    color:blue;
+}
+.text-red{
+    color:red;
+}
+.text-size{
+    font-size: 30px;
+}
+#text-border{
+    border:2px solid orange;
+}
+table,td,tr{
+    border:1px solid orange;
+}
+table{
+    background-color: yellow;
+}
+#sütun-1{
+    text-align: center;
+    background-color: rgb(190, 164, 130);
+    color:brown
+}
+#satır2-sütun1{
+    background-color: bisque;
+    width: 200px;
+    
+}
+.columns-bg{
+    background-color: rgb(226, 43, 137);
+}
+.columns3-bg{
+    background-color: rgb(179, 133, 223);
+}
+#sütun3-bg{
+    background-color: rgb(162, 162, 201);
+   
+}
+#satır4-sütun3-bg{
+    background-color: rgb(76, 76, 222);
+   
+}
+.text-style{
+    font-size: 20;
+    color:aliceblue;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: brown;
+}
+#color-orange{
+    border: 10px solid orange;
+    width: 300px;
+}
+#table2-width{
+    width: 300px;
+    height: 400px;
+    border: 2px solid purple;
+}
+#table2-width tr,td{
+    border: 2px solid purple;
+
+}
+#pink-bg{
+    background-color: pink;
+}
+.bg-green{
+    background-color: aqua;
+}
+.orange-bg{
+    background-color: orange;
+}
+.white-bg{
+    background-color: white;
+}
+.light-yellow-bg{
+    background-color: rgb(251, 251, 113);
+}
+#dark-blue-bg{
+    background-color: blue;
+}
+#dark-purple-bg{
+    background-color:purple;
+}
